@@ -40,7 +40,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 😂 Random Dev Meme
-<img src="https://i.imgur.com/aPSte1u.jpg" width="512px" height="512px"/>
+<img src="https://powerful-brook-91579.herokuapp.com/" width="512px" height="512px"/>
 
 
 
