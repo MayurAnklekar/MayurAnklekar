@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [social-media](https://social-media-1608.netlify.app/)
 
-- 🌱 I’m currently learning **Flutter and Express Framework**
+- 🌱 I’m currently learning **Micro-Services and React-Native**
 
 - 💬 Ask me about **React, Next.js**
 
